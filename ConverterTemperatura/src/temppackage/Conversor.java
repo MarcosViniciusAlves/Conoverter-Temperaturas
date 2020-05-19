@@ -7,9 +7,9 @@ public class Conversor {
 
     public void calculaTodos() {
         this.calculaCelsius();
-        System.out.println("---------------------------------------------------------");
+        System.out.println("-----------------------------------");
         this.calculaFahrenheit();
-        System.out.println("---------------------------------------------------------");
+        System.out.println("-----------------------------------");
         this.calculaKelvin();
     }
 
