@@ -4,9 +4,9 @@ public class JavaMain {
     public static void main (String[] args){
         Conversor cv = new Conversor();
 
-        cv.setCelsius(12);
-        cv.setFahrenheit(12);
-        cv.setKelvin(23);
+        cv.setCelsius(10);
+        cv.setFahrenheit(10);
+        cv.setKelvin(10);
 
         cv.calculaTodos();
     }
